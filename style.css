@@ -1,0 +1,12 @@
+/* style.css */
+.movie-container {
+    display: inline-block;
+    margin-right: 40px; /* Adjust as needed to provide spacing between images */
+    margin-bottom: 20px; 
+}
+
+.movie-name {
+    margin-top: 10px; /* Adjust as needed to provide space between image and name */
+    text-align: center; /* Center-align the movie name */
+    width: 150px; /* Set a fixed width for consistent layout */
+}
